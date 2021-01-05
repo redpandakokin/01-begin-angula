@@ -1,0 +1,20 @@
+.ground {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(133, 54, 54);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ground .o {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: goldenrod;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-shadow: 1px 1px 100px rgb(255, 246, 194);
+}
